@@ -10,6 +10,10 @@ public class SolarSystem {
         Xros.Color="Green";
         Xros.Temp="234334";
         Xros.you="Me";
+
+        planet2 p =new planet2();
+        p.color="pink";
+        p.radius="dert";
     }
 
 }
