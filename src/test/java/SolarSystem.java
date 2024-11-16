@@ -11,9 +11,15 @@ public class SolarSystem {
         Xros.Temp="234334";
         Xros.you="Me";
 
+
         planet1 zoro=new planet1();
         zoro.color="black";
         zoro.radius="Abcdef";
+
+        planet2 p =new planet2();
+        p.color="pink";
+        p.radius="dert";
+
     }
 
 }
