@@ -10,6 +10,10 @@ public class SolarSystem {
         Xros.Color="Green";
         Xros.Temp="234334";
         Xros.you="Me";
+
+        planet1 zoro=new planet1();
+        zoro.color="black";
+        zoro.radius="Abcdef";
     }
 
 }
